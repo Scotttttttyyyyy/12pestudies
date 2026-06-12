@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Basketball shot",
+    "focus": "Elbow",
+    "answer": "Extension",
+    "question": "Identify the movement at the elbow as the shooting arm straightens to release the ball.",
+    "explanation": "Extension increases the angle at a joint. The elbow straightens as the ball is released.",
+    "image": "images/scenario_01.jpg"
+  },
+  {
+    "title": "AFL kick",
+    "focus": "Knee",
+    "answer": "Extension",
+    "question": "Identify the movement at the knee as the kicking leg straightens to contact the ball.",
+    "explanation": "The knee angle increases as the lower leg swings forward.",
+    "image": "images/scenario_02.jpg"
+  },
+  {
+    "title": "Sprint start",
+    "focus": "Ankle",
+    "answer": "Plantar Flexion",
+    "question": "Identify the movement at the ankle as the athlete pushes off the blocks.",
+    "explanation": "The toes point down as the ankle extends during push-off.",
+    "image": "images/scenario_03.jpg"
+  },
+  {
+    "title": "Tennis serve",
+    "focus": "Shoulder",
+    "answer": "Circumduction",
+    "question": "Identify the movement at the shoulder during the large circular serving action.",
+    "explanation": "Circumduction is a circular movement combining flexion, extension, abduction and adduction.",
+    "image": "images/scenario_04.jpg"
+  },
+  {
+    "title": "Golf swing",
+    "focus": "Trunk",
+    "answer": "Rotation",
+    "question": "Identify the movement of the trunk during the backswing.",
+    "explanation": "Rotation occurs when the body turns around its long axis.",
+    "image": "images/scenario_05.jpg"
+  },
+  {
+    "title": "Star jump out",
+    "focus": "Shoulder",
+    "answer": "Abduction",
+    "question": "Identify the movement at the shoulder as the arms move away from the midline.",
+    "explanation": "Abduction is movement away from the body's midline.",
+    "image": "images/scenario_06.jpg"
+  },
+  {
+    "title": "Bicep curl",
+    "focus": "Elbow",
+    "answer": "Flexion",
+    "question": "Identify the movement at the elbow as the weight is lifted.",
+    "explanation": "Flexion decreases the angle at a joint.",
+    "image": "images/scenario_07.jpg"
+  },
+  {
+    "title": "Volleyball spike",
+    "focus": "Shoulder",
+    "answer": "Circumduction",
+    "question": "Identify the movement at the shoulder as the arm swings in a large arc to spike.",
+    "explanation": "The shoulder moves through a circular path during the striking action.",
+    "image": "images/scenario_08.jpg"
+  },
+  {
+    "title": "High jump take-off",
+    "focus": "Ankle",
+    "answer": "Plantar Flexion",
+    "question": "Identify the movement at the ankle during take-off.",
+    "explanation": "The toes point down as the athlete pushes off the ground.",
+    "image": "images/scenario_09.jpg"
+  },
+  {
+    "title": "Soccer kick",
+    "focus": "Knee",
+    "answer": "Extension",
+    "question": "Identify the movement at the knee as the leg swings forward to kick the ball.",
+    "explanation": "The knee straightens as the leg moves forward.",
+    "image": "images/scenario_10.jpg"
+  },
+  {
+    "title": "Long jump take-off",
+    "focus": "Ankle",
+    "answer": "Plantar Flexion",
+    "question": "Identify the movement at the ankle as the athlete leaves the board.",
+    "explanation": "The ankle points down during forceful push-off.",
+    "image": "images/scenario_11.jpg"
+  },
+  {
+    "title": "Breaststroke pull",
+    "focus": "Shoulder",
+    "answer": "Adduction",
+    "question": "Identify the movement at the shoulder as the arms move back towards the body during the pull phase.",
+    "explanation": "Adduction is movement towards the body's midline.",
+    "image": "images/scenario_12.jpg"
+  },
+  {
+    "title": "Push-up setup",
+    "focus": "Forearm",
+    "answer": "Pronation",
+    "question": "Identify the forearm movement when the palms face down on the ground.",
+    "explanation": "Pronation turns the forearm so the palm faces down or backward.",
+    "image": "images/scenario_13.jpg"
+  },
+  {
+    "title": "Receiving a tray",
+    "focus": "Forearm",
+    "answer": "Supination",
+    "question": "Identify the forearm movement when the palms face up to support the tray.",
+    "explanation": "Supination turns the forearm so the palm faces up or forward.",
+    "image": "images/scenario_14.jpg"
+  },
+  {
+    "title": "Cricket batting shot",
+    "focus": "Trunk",
+    "answer": "Rotation",
+    "question": "Identify the trunk movement used to generate power through the batting shot.",
+    "explanation": "The trunk rotates around its long axis.",
+    "image": "images/scenario_15.jpg"
+  },
+  {
+    "title": "Shot put",
+    "focus": "Shoulder/Elbow",
+    "answer": "Extension",
+    "question": "Identify the movement as the arm straightens to push the shot away from the body.",
+    "explanation": "Extension increases the angle as the arm straightens.",
+    "image": "images/scenario_16.jpg"
+  },
+  {
+    "title": "Swimming recovery",
+    "focus": "Shoulder",
+    "answer": "Circumduction",
+    "question": "Identify the movement at the shoulder as the arm circles over the water.",
+    "explanation": "Circumduction is a circular movement at the shoulder.",
+    "image": "images/scenario_17.jpg"
+  },
+  {
+    "title": "Overhead medicine ball throw",
+    "focus": "Shoulder",
+    "answer": "Flexion",
+    "question": "Identify the movement at the shoulder as the arms move forwards and upwards to throw.",
+    "explanation": "Shoulder flexion moves the arm forwards and upwards.",
+    "image": "images/scenario_18.jpg"
+  },
+  {
+    "title": "Netball chest pass",
+    "focus": "Shoulder",
+    "answer": "Horizontal Adduction",
+    "question": "Identify the movement at the shoulder as the arms move across the body towards the target.",
+    "explanation": "Horizontal adduction moves the arm across the body in the transverse plane.",
+    "image": "images/scenario_19.jpg"
+  },
+  {
+    "title": "Rowing drive",
+    "focus": "Knee",
+    "answer": "Extension",
+    "question": "Identify the movement at the knee as the rower drives through the legs.",
+    "explanation": "The knees straighten during the drive phase.",
+    "image": "images/scenario_20.jpg"
+  },
+  {
+    "title": "Dancer leg lift",
+    "focus": "Hip",
+    "answer": "Extension",
+    "question": "Identify the movement at the hip as the leg moves backwards behind the body.",
+    "explanation": "Hip extension moves the thigh backwards.",
+    "image": "images/scenario_21.jpg"
+  },
+  {
+    "title": "Cycling pedal down",
+    "focus": "Knee",
+    "answer": "Extension",
+    "question": "Identify the movement at the knee as the pedal is pushed down.",
+    "explanation": "The knee straightens during the downstroke.",
+    "image": "images/scenario_22.jpg"
+  },
+  {
+    "title": "Taekwondo front kick",
+    "focus": "Knee",
+    "answer": "Extension",
+    "question": "Identify the movement at the knee as the lower leg snaps forwards.",
+    "explanation": "The knee extends as the kicking leg straightens.",
+    "image": "images/scenario_23.jpg"
+  },
+  {
+    "title": "Rugby lineout lift",
+    "focus": "Shoulder",
+    "answer": "Flexion",
+    "question": "Identify the movement at the shoulder as the arms move upwards to catch the ball.",
+    "explanation": "Shoulder flexion moves the arms forwards and upwards.",
+    "image": "images/scenario_24.jpg"
+  },
+  {
+    "title": "Kayak paddle stroke",
+    "focus": "Shoulder",
+    "answer": "Extension",
+    "question": "Identify the movement at the shoulder as the arm pulls back during the power phase.",
+    "explanation": "Shoulder extension moves the arm backwards.",
+    "image": "images/scenario_25.jpg"
+  },
+  {
+    "title": "Gymnast handstand",
+    "focus": "Shoulder",
+    "answer": "Flexion",
+    "question": "Identify the movement at the shoulder as the arms support the body overhead.",
+    "explanation": "The shoulder is flexed when the arms are raised overhead.",
+    "image": "images/scenario_26.jpg"
+  },
+  {
+    "title": "Skateboard push-off",
+    "focus": "Ankle",
+    "answer": "Plantar Flexion",
+    "question": "Identify the movement at the ankle as the foot pushes against the ground.",
+    "explanation": "The toes point down during push-off.",
+    "image": "images/scenario_27.jpg"
+  },
+  {
+    "title": "Ice hockey slap shot",
+    "focus": "Trunk",
+    "answer": "Rotation",
+    "question": "Identify the trunk movement used to generate power for the shot.",
+    "explanation": "The trunk rotates to transfer force into the stick.",
+    "image": "images/scenario_28.jpg"
+  },
+  {
+    "title": "Boxing jab",
+    "focus": "Shoulder",
+    "answer": "Horizontal Adduction",
+    "question": "Identify the movement at the shoulder as the arm moves across the body to punch.",
+    "explanation": "Horizontal adduction brings the arm across the front of the body.",
+    "image": "images/scenario_29.jpg"
+  },
+  {
+    "title": "Squat down",
+    "focus": "Knee/Hip",
+    "answer": "Flexion",
+    "question": "Identify the movement at the knee and hip as the body lowers into the squat.",
+    "explanation": "Flexion decreases the angle at the knee and hip.",
+    "image": "images/scenario_30.jpg"
+  },
+  {
+    "title": "Discus throw",
+    "focus": "Trunk/Shoulder",
+    "answer": "Rotation",
+    "question": "Identify the main movement used to generate power in the discus throw.",
+    "explanation": "Rotation turns the trunk and shoulder around an axis.",
+    "image": "images/scenario_31.jpg"
+  },
+  {
+    "title": "Baseball pitch",
+    "focus": "Shoulder",
+    "answer": "Horizontal Adduction",
+    "question": "Identify the shoulder movement as the throwing arm moves across the body during release.",
+    "explanation": "Horizontal adduction moves the arm across the body.",
+    "image": "images/scenario_32.jpg"
+  },
+  {
+    "title": "Hammer throw",
+    "focus": "Trunk",
+    "answer": "Rotation",
+    "question": "Identify the movement of the trunk before release.",
+    "explanation": "The trunk rotates to build momentum.",
+    "image": "images/scenario_33.jpg"
+  },
+  {
+    "title": "Tennis forehand",
+    "focus": "Shoulder",
+    "answer": "Horizontal Adduction",
+    "question": "Identify the shoulder movement as the arm moves across the body to hit the ball.",
+    "explanation": "Horizontal adduction brings the arm across the body.",
+    "image": "images/scenario_34.jpg"
+  },
+  {
+    "title": "Cricket bowling",
+    "focus": "Shoulder",
+    "answer": "Circumduction",
+    "question": "Identify the shoulder movement during the circular bowling action.",
+    "explanation": "The arm travels in a circular path.",
+    "image": "images/scenario_35.jpg"
+  },
+  {
+    "title": "Pull-up",
+    "focus": "Elbow",
+    "answer": "Flexion",
+    "question": "Identify the movement at the elbow as the body is pulled upward.",
+    "explanation": "The elbow bends, decreasing the joint angle.",
+    "image": "images/scenario_36.jpg"
+  },
+  {
+    "title": "Bench press",
+    "focus": "Elbow",
+    "answer": "Extension",
+    "question": "Identify the movement at the elbow as the bar is pushed upward.",
+    "explanation": "The elbow straightens, increasing the joint angle.",
+    "image": "images/scenario_37.jpg"
+  },
+  {
+    "title": "Dive into water",
+    "focus": "Ankle",
+    "answer": "Plantar Flexion",
+    "question": "Identify the movement at the ankle as the toes point during entry.",
+    "explanation": "The ankle points down during plantar flexion.",
+    "image": "images/scenario_38.jpg"
+  },
+  {
+    "title": "Landing from jump",
+    "focus": "Ankle",
+    "answer": "Dorsiflexion",
+    "question": "Identify the movement at the ankle as the athlete absorbs impact on landing.",
+    "explanation": "Dorsiflexion moves the toes upward towards the shin.",
+    "image": "images/scenario_39.jpg"
+  },
+  {
+    "title": "Wall push-up",
+    "focus": "Shoulder",
+    "answer": "Horizontal Adduction",
+    "question": "Identify the shoulder movement as the arms push against the wall.",
+    "explanation": "Horizontal adduction moves the arms towards the midline across the body.",
+    "image": "images/scenario_40.jpg"
+  }
+]
